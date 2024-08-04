@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lucky Number app</string>
+    <string name="wish_me_luck">Wish Me Luck</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="welcome_to_lucky_number_app">Welcome to lucky number app!</string>
+    <string name="your_lucky_number_is">Your lucky number is:</string>
+    <string name="_888">888</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="Share_with_friends" />
+</resources>
